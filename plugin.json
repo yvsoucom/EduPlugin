@@ -1,0 +1,16 @@
+{
+  "name": "EduPlugin",
+  "version": "1.0.0",
+  "type": "plugin",
+  "description": "EduPlugin that support education and elearning.",
+  "shortcodes": {
+    "exam": "exam_handler",
+    "score": "user_score_handler"
+  },
+  "menus": {
+    "name": "Online exam",
+    "icon": "📚",
+    "visible": true,
+    "role": "user"
+  }
+}
